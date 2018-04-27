@@ -35,7 +35,7 @@
                         <td>{{$sd->Ten}}</td>
                         <td>{{$sd->NoiDung}}</td>
                         <td>
-                            <img src="upload/slide/{{$sd->Hinh}}" alt="">
+                            <img width="300px" src="upload/slide/{{$sd->Hinh}}" alt="">
                         </td>
 
                         <td>{{$sd->link}}</td>
